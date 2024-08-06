@@ -1,0 +1,11 @@
+{
+  "CHAT_MODEL_NAME": "davinci",
+  "OUT_UDP_IP": "255.255.255.255",
+  "OUT_UDP_PORT": 5051,
+  "IN_UDP_IP": "0.0.0.0",
+  "IN_UDP_PORTs": {"start_record_port": 5005,
+                  "stop_record_port": 5007,
+                  "chat_port": 5009,
+                  "close_port": 5011},
+  "saving_path": "save_path\\Data"
+}

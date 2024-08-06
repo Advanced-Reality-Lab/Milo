@@ -1,0 +1,13 @@
+gtts~=2.2.2
+future~=0.18.2
+tqdm~=4.27.0
+Werkzeug==2.2.2
+flask~=2.1.2
+numpy~=1.21.4
+ipython~=7.21.0
+traitlets~=5.0.5
+openai~=0.18.1
+six~=1.15.0
+google-cloud-speech
+google-cloud-texttospeech
+pyaudio

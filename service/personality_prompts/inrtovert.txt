@@ -1,0 +1,5 @@
+big5 example:
+below we can see a conversation of a bartender and a customer.
+from the conversation we can see do some extrapolation on the bartender's personality.
+she seems to have low openness, low extrovert, and high neuroticism.
+
