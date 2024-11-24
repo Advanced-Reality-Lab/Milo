@@ -3,7 +3,7 @@
 ## Description
 
 Milo is a framework for incorporating a voice conversation agent, that uses LLM models for natural speech conversation.
-The framework along with a setup guid, can be read from [link to  toturial PPT]()
+The framework along with a setup guid, can be read from [link to  toturial PPT](https://docs.google.com/presentation/d/1bDFDP1DB1y50-CFKYNlQcnNkFiQa4GUM/edit?usp=drive_link&ouid=109837912828593613159&rtpof=true&sd=true)
 
 
 ## Features
@@ -16,7 +16,7 @@ The framework along with a setup guid, can be read from [link to  toturial PPT](
 
 ## Installation
 
-For detailed instruction of how to install Milo, you can follow [this link to toturial PPT]()
+For detailed instruction of how to install Milo, you can follow [this link to toturial PPT](https://docs.google.com/presentation/d/1bDFDP1DB1y50-CFKYNlQcnNkFiQa4GUM/edit?usp=drive_link&ouid=109837912828593613159&rtpof=true&sd=true)
 <!-- Detailed instructions on how to install Milo can be found in [link to  toturial PPT]() -->
 
 ### tl;dr
